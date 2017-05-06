@@ -14,7 +14,7 @@ var DashboardComponent = (function () {
 DashboardComponent = __decorate([
     core_1.Component({
         selector: 'qs-dashboard',
-        template: "\n    <h2>Dashboard</h2>\n    Here are some changes\n    "
+        template: "\n    <h2>Dashboard</h2>\n    <ul>\n      <li>Here are some changes</li>\n      <li>I think this change was made in the branch</li>\n    </ul>\n    \n\n    \n    "
     })
 ], DashboardComponent);
 exports.DashboardComponent = DashboardComponent;
