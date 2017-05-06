@@ -6,6 +6,8 @@ import { Component, OnInit } from '@angular/core';
   template: `
     <h2>Dashboard</h2>
     Here are some changes
+
+    Her are some changes after branching
     `
 })
 
