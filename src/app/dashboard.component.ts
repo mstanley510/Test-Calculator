@@ -5,9 +5,13 @@ import { Component, OnInit } from '@angular/core';
   selector: 'qs-dashboard',
   template: `
     <h2>Dashboard</h2>
-    Here are some changes
+    <ul>
+      <li>Here are some changes</li>
+      <li>I think this change was made in the branch</li>
+    </ul>
+    
 
-    Her are some changes after branching
+    
     `
 })
 
