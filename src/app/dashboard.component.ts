@@ -5,6 +5,7 @@ import { Component, OnInit } from '@angular/core';
   selector: 'qs-dashboard',
   template: `
     <h2>Dashboard</h2>
+    Here are some changes
     `
 })
 
